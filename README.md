@@ -2,11 +2,9 @@
 - 😁 Fato divertido o único planeta do sistema solar que não tem o nome de um deus é o nosso.
 - 🏡 Moro em São carlos
 - 📫 Me contate em (pedrongomes36@gmail.com)
-
-<a href="https://github.com/PEDRO-H-GOMES
-
-<img height="1" src="https://gith-read stats.vercel.app/apiusername PEDRO-H-GOMES construetheme-draculainclude all commits-truecount_private-true"> ing night" src"https://github-read-stats.vercel.app/api/top-langs/?usernamePEDRO-H-GOMESalayout-compact&langs_count-16&theme-dracula 2
-
+<div>
+<a href="https://github.com/PEDRO-H-GOMES">
+<img height="180cm" src="https://gith-read stats.vercel.app/api?usernamePEDRO-H-GOMES&show_icons=true&theme=draculainclude_all_commits=truecount_private-true"L> 
+<img height"180cm" src="https://github-read-stats.vercel.app/api/top-langs/?username=PEDRO-H-GOMES&layout=compact&langs_count=16&theme-dracula"L>
 </div>
 
-11
