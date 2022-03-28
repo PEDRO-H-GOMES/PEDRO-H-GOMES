@@ -1,7 +1,7 @@
-- 👋 Oi eu sou PEDRO-H-GOMES
-- 😁 Fato divertido o único planeta do sistema solar que não tem o nome de um deus é o nosso. 
-- 🏡 Moro em São carlos
-- 📫 Me contate em (pedrongomes36@gmail.com)
+- 👋 Oi, eu sou PEDRO-H-GOMES
+- 😁 Fato divertido: o único planeta do sistema solar que não tem o nome de um deus é o nosso. 
+- 🏡 São carlos
+- 📫 contato: pedrongomes36@gmail.com
 
 <div>
  <a href="https://github.com/PEDRO-H-GOMES">
